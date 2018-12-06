@@ -6,7 +6,7 @@ This project uses a number of open source npm packages and projects listed below
 
 * [ExpressJS](https://expressjs.com) - Fast NodeJS network app framework.
 * [mongoose](https://www.npmjs.com/package/mongoose) - MongoDB object modeling tool designed to work in an asynchronous environment.
-* [mongoose-paginate](https://www.npmjs.com/package/mongoose-paginate) - Mongoose pluging for easy implementation of paginating and limit queries.
+* [mongoose-paginate](https://www.npmjs.com/package/mongoose-paginate) - Mongoose pluging for easy implementation of pagination and limit queries.
 * [body-parser](https://www.npmjs.com/package/body-parser) - Parses incoming request bodies in a middleware, available under the req.body property.
 
 ### Installation and Execution
