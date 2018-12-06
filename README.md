@@ -1,6 +1,6 @@
 # Datapeace Recruitment Assignment
 
-The APIs have been built using NodeJS as the web framework and MongoDB as the database.
+The required APIs have been built using NodeJS as the web framework and MongoDB as the database.
 
 This project uses a number of open source npm packages and projects listed below :
 
